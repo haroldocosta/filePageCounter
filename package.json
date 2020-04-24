@@ -1,0 +1,29 @@
+{
+  "name": "filepagecounter",
+  "version": "1.0.0",
+  "description": "Files pages counter",
+  "main": "counter.js",
+  "dependencies": {
+    "docx-pdf-pagecount": "0.0.3",
+    "pdfjs-dist": "^2.3.200"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node counter.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haroldocosta/filePageCounter.git"
+  },
+  "keywords": [
+    "pdf",
+    "docx",
+    "doc"
+  ],
+  "author": "Haroldo R. Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haroldocosta/filePageCounter/issues"
+  },
+  "homepage": "https://github.com/haroldocosta/filePageCounter#readme"
+}
